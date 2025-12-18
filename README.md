@@ -257,3 +257,5 @@ This project demonstrates the feasibility of using facial expressions as a relia
 <img width="1221" height="535" alt="Screenshot 2025-12-18 235158" src="https://github.com/user-attachments/assets/e1d4d24d-c11d-409d-811d-a74c11c12a76" />
 <img width="1201" height="574" alt="Screenshot 2025-12-18 235216" src="https://github.com/user-attachments/assets/8d3af42d-3b73-4a2f-8da4-abed68862841" />
 <img width="1222" height="569" alt="Screenshot 2025-12-18 235248" src="https://github.com/user-attachments/assets/db00a351-28e3-4089-ba5b-fa9a58bf35e3" />
+<img width="1074" height="724" alt="image" src="https://github.com/user-attachments/assets/29145b94-f7d7-4c8b-8c37-a66b52625459" />
+
