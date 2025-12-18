@@ -245,13 +245,15 @@ This project demonstrates the feasibility of using facial expressions as a relia
 
 
 # OUTPUT
-<img width="1199" height="578" alt="image" src="https://github.com/user-attachments/assets/fbcd9c3a-19fc-4c0f-beb0-0fcb987421b1" />
-<img width="1216" height="576" alt="image" src="https://github.com/user-attachments/assets/7827c3e4-093c-4072-87ae-f74410b3c4f4" />
-<img width="1218" height="583" alt="image" src="https://github.com/user-attachments/assets/18b12652-9fb0-4dd8-a342-448f1929a155" />
-<img width="1221" height="546" alt="image" src="https://github.com/user-attachments/assets/c0c98fb2-f979-4a55-8c76-8df978888c6b" />
-<img width="1198" height="554" alt="image" src="https://github.com/user-attachments/assets/a7385fd3-c4bb-4e53-a604-8ab6ab5ff2fd" />
-<img width="1183" height="596" alt="image" src="https://github.com/user-attachments/assets/3c578fac-9d6a-496e-a604-e3bcdab47396" />
-<img width="1197" height="557" alt="image" src="https://github.com/user-attachments/assets/21edf54b-347c-4345-aad5-f55170ecac60" />
-<img width="1221" height="535" alt="image" src="https://github.com/user-attachments/assets/c3756ddd-641b-4028-a473-045a3b22b8bc" />
-<img width="1201" height="574" alt="image" src="https://github.com/user-attachments/assets/ba6cbd4f-c74d-45d7-8a13-43c5d176712e" />
-<img width="1222" height="569" alt="image" src="https://github.com/user-attachments/assets/2688bcd4-7855-49d7-ba9d-fd4af994115d" />
+<img width="1199" height="578" alt="Screenshot 2025-12-18 234709" src="https://github.com/user-attachments/assets/531167e3-775b-4c38-a7d6-9966f8954460" />
+<img width="1216" height="576" alt="Screenshot 2025-12-18 234806" src="https://github.com/user-attachments/assets/da146f42-073c-44a2-a8e7-09a78ab8cddc" />
+<img width="1218" height="583" alt="Screenshot 2025-12-18 234843" src="https://github.com/user-attachments/assets/9381f4bd-6709-414c-97ff-74206890879f" />
+
+<img width="1221" height="546" alt="Screenshot 2025-12-18 234919" src="https://github.com/user-attachments/assets/a47ab942-20ff-4645-bbd0-204559e094cf" />
+<img width="1198" height="554" alt="Screenshot 2025-12-18 234947" src="https://github.com/user-attachments/assets/b2387323-b95c-431f-829e-e4b80b0de2d1" />
+<img width="1183" height="596" alt="Screenshot 2025-12-18 235005" src="https://github.com/user-attachments/assets/be5cf3b2-c9af-4ef9-b99f-6ec336d697fa" />
+
+<img width="1197" height="557" alt="Screenshot 2025-12-18 235048" src="https://github.com/user-attachments/assets/daf212f1-4809-4180-939c-3be0089de4ed" />
+<img width="1221" height="535" alt="Screenshot 2025-12-18 235158" src="https://github.com/user-attachments/assets/e1d4d24d-c11d-409d-811d-a74c11c12a76" />
+<img width="1201" height="574" alt="Screenshot 2025-12-18 235216" src="https://github.com/user-attachments/assets/8d3af42d-3b73-4a2f-8da4-abed68862841" />
+<img width="1222" height="569" alt="Screenshot 2025-12-18 235248" src="https://github.com/user-attachments/assets/db00a351-28e3-4089-ba5b-fa9a58bf35e3" />
